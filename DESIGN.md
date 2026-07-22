@@ -22,6 +22,7 @@ O título não usa escala hero de 48px ou mais porque a referência oficial usa 
 ## Estados pendentes
 
 - Até a entrega do VTurb próprio, o espaço do player permanece como placeholder neutro, sem carregar o vídeo do concorrente.
-- Meta Pixel e UTMify só entram quando os IDs próprios forem entregues.
+- UTMify Pixel próprio instalado (pixelId `6a61400b91a343f941af13de`), via loader ofuscado no `<head>` para dificultar cópia por concorrentes.
+- Meta Pixel só entra quando o ID próprio for entregue.
 - Nenhum conteúdo é exibido depois do vídeo até a configuração final do player.
 
